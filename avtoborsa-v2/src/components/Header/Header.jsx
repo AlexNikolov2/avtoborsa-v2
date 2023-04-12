@@ -1,6 +1,5 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import './Header.css';
+import React from "react";
+import "./Header.css";
 
 const Header = () => (
   <div className="Header" data-testid="Header">
