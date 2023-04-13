@@ -1,6 +1,5 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import './AboutUs.css';
+import React from "react";
+import "./AboutUs.css";
 
 const AboutUs = () => (
   <div className="AboutUs" data-testid="AboutUs">
